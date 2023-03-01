@@ -76,7 +76,7 @@ dependencies {
 
 jib {
 	to {
-		image = 'security-test/webserver'
+		image = 'design-test/webserver'
 	}
 }
 
